@@ -1,0 +1,10 @@
+df[['ReAdmis', 'Soft_drink', 'HighBlood', 'Stroke', 'Complication_risk', 'Overweight', 'Arthritis', 'Diabetes', 'Hyperlipidemia', 'BackPain', 'Anxiety', 'Allergic_rhinitis', 'Reflux_esophagitis', 'Asthma', 'Age', 'VitD_levels', 'Doc_visits', 'Initial_days']]
+df.cormat.corr()
+
+Categorical
+'ReAdmis', 'Soft_drink', 'HighBlood', 'Stroke', 'Complication_risk', 'Overweight', 'Arthritis', 'Diabetes', 'Hyperlipidemia', 'BackPain', 'Anxiety', 'Allergic_rhinitis', 'Reflux_esophagitis', 'Asthma'
+
+Numerical
+Age, VitD_levels, Doc_visits, Initial_days
+
+---------
